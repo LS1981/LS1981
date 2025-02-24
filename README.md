@@ -11,7 +11,7 @@
 
 
 <p lign="center">
-<img src="https://avatars.githubusercontent.com/u/106643709?s=280&v=4">
+<img src="https://avatars.githubusercontent.com/u/106643709?s=280&v=4" widht="100px">
 </p>
 
 
