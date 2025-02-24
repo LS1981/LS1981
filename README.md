@@ -10,7 +10,9 @@
 
 ###
 --------
+<p align="center">
 ![Liliane Shimizo GitHub stats](https://github-readme-stats.vercel.app/api?username=LS1981&show_icons=true&theme=radical)
+</p>
 
 
 <a href="https://github.com/LS1981/github-readme-stats">
