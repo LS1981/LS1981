@@ -19,7 +19,7 @@
 </p>
 
 
-<p lign="center">
+<p align="center">
 <img src="https://avatars.githubusercontent.com/u/106643709?s=280&v=4" widht="50px">
 </p>
 
