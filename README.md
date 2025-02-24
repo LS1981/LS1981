@@ -6,7 +6,7 @@
  - 🤔 I’m looking for help with Machine Learning, Análise de Dados e IA.
 
 
-🔗 [Conecte-se comigo:](https://www.linkedin.com/in/liliane-shimizo/) 
+🔗 [Conecte-se comigo:](www.linkedin.com/in/liliane-shimizo-372970a4) 
 
 ###
 --------
