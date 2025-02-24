@@ -9,7 +9,10 @@
 
 🔗 [Conecte-se comigo:] (www.linkedin.com/in/liliane-shimizo-372970a4)
 
+
+<p lign="center">
 <img src="https://avatars.githubusercontent.com/u/106643709?s=280&v=4">
+</p>
 
 
 
