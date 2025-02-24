@@ -9,6 +9,14 @@
 
 🔗 [Conecte-se comigo:] (www.linkedin.com/in/liliane-shimizo-372970a4)
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/liliane-shimizo/) 
+###
+
+<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LS1981) -->
+<a href="https://github.com/LS1981/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=LS1981&layout=compact&hide=Tex,VHDL,Jupyter%20Notebookk&theme=dark" height="170" />
+</a>
+
 
 <p lign="center">
 <img src="https://avatars.githubusercontent.com/u/106643709?s=280&v=4" widht="50px">
