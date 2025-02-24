@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=LS1981&layout=compact&hide=Tex,VHDL,Jupyter%20Notebookk&theme=dark" height="100" />
+<img src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=LS1981&layout=compact&hide=Tex,VHDL,Jupyter%20Notebookk&theme=dark" height="150" />
 </p>
 
 
