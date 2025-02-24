@@ -11,7 +11,8 @@
 ###
 --------
 <p align="center">
-![Liliane Shimizo GitHub stats](https://github-readme-stats.vercel.app/api?username=LS1981&show_icons=true&theme=radical)>
+[Liliane Shimizo GitHub stats](
+    <img align="center src="https://github-readme-stats.vercel.app/api?username=LS1981&show_icons=true&theme=radical" >
 <a href="https://github.com/LS1981/github-readme-stats">
   <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=LS1981&layout=compact&hide=Tex,VHDL,Jupyter%20Notebookk&theme=dark" height="170" />
 </a>
