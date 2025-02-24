@@ -15,12 +15,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=LS1981&layout=compact&hide=Tex,VHDL,Jupyter%20Notebookk&theme=dark" height="50" />
-</p>
-
-<a href="https://github.com/LS1981/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=LS1981&layout=compact&hide=Tex,VHDL,Jupyter%20Notebookk&theme=dark" height="50" />
-</a>
+<img src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=LS1981&layout=compact&hide=Tex,VHDL,Jupyter%20Notebookk&theme=dark" height="100" />
 </p>
 
 
