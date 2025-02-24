@@ -24,24 +24,3 @@
 </p>
 
 
-
-
-
-
-
-
-
-<!--
-**LS1981/LS1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on education sector as a state employee.
-- 🌱 I’m currently an Information Systems student.
-- 👯 I'm looking to make a career transition.
-- 🤔 I’m looking for help with Machine Learning, Análise de Dados e IA.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
