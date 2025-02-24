@@ -6,19 +6,18 @@
  - 🤔 I’m looking for help with Machine Learning, Análise de Dados e IA.
 
 
-🔗 [Conecte-se comigo:] ([<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/liliane-shimizo/) )
+🔗 Conecte-se comigo: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/liliane-shimizo/) 
 
 ###
 --------
-
+<p align="center">
 ![Liliane Shimizo GitHub stats](https://github-readme-stats.vercel.app/api?username=LS1981&show_icons=true&theme=radical)
 
 
-
-<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LS1981) -->
 <a href="https://github.com/LS1981/github-readme-stats">
   <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=LS1981&layout=compact&hide=Tex,VHDL,Jupyter%20Notebookk&theme=dark" height="170" />
 </a>
+</p>
 
 
 <p lign="center">
